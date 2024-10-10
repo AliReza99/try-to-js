@@ -1,1 +1,1 @@
-export * from "./await-to-js";
+export * from "./try-to-js";
