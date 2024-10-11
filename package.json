@@ -1,16 +1,26 @@
 {
   "name": "try-to-js",
-  "private": false,
   "version": "1.0.1",
-  "description": "",
-  "author": "Alireza Bahrani",
-  "license": "MIT",
+  "description": "try/catch wrapper for easy error handling in js",
+  "keywords": [
+    "node",
+    "try",
+    "catch",
+    "try catch"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AliReza99/try-to-js.git"
+  },
   "type": "module",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "main": "dist/index.js",
+  "author": "Alireza Bahrani",
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "lint:prettier": "prettier --check --cache ./src/**/*.{js,jsx,ts,tsx}",
     "prettify": "prettier --write --cache ./src/**/*.{js,jsx,ts,tsx}",
