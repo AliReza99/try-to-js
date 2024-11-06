@@ -2,6 +2,11 @@
 
 A lightweight try/catch wrapper for easy error handling that improves code readability by removing the clutter of traditional try/catch blocks.
 
+## Badges
+
+![npm](https://img.shields.io/npm/v/try-to-js) ![npm](https://img.shields.io/npm/dt/try-to-js)
+
+
 ## Installation
 
 To install the package, run:
