@@ -1,6 +1,6 @@
 {
   "name": "try-to-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "try/catch wrapper for easy error handling in js",
   "keywords": [
     "node",
